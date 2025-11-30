@@ -1,5 +1,7 @@
 # MapReduce Sorting with Hadoop Cluster 🚀
 
+# **🚨 Au lieu de construire l'image from Scratch, vous pouvez vous servir de l'image toute prête de @Lilia Sfaxi, TP: https://insatunisia.github.io/TP-BigData/tp1/, je me suis grandement inspiré de ce qu'elle a fait**
+
 [![Hadoop](https://img.shields.io/badge/Hadoop-3.3.6-orange.svg)](https://hadoop.apache.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://www.docker.com/)
@@ -12,7 +14,7 @@ Implémentation d'un algorithme de **tri distribué** utilisant le paradigme **M
 ### 🎯 Objectifs
 
 - ✅ Déployer un cluster Hadoop multi-nœuds avec Docker
-- ✅ Implémenter un tri MapReduce en Python
+- ✅ Implémenter un tri MapReduce
 - ✅ Comprendre les phases Map, Shuffle & Sort, Reduce
 - ✅ Monitorer les jobs via les interfaces Web Hadoop
 - ✅ Valider le tri distribué
